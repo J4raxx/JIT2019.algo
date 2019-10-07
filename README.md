@@ -1,6 +1,6 @@
 # JIT2019.algo
 
-#Requierments:
+# Requierments:
 nonfree opencv for python
 numpy
 xmltodict
